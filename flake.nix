@@ -136,13 +136,6 @@
           todo-comments-nvim
           mini-nvim
           nvim-treesitter.withAllGrammars
-          # This is for if you only want some of the grammars
-          # (nvim-treesitter.withPlugins (
-          #   plugins: with plugins; [
-          #     nix
-          #     lua
-          #   ]
-          # ))
         ];
         kickstart-debug = [
           nvim-dap

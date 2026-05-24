@@ -113,6 +113,7 @@
           lua-language-server
           nixd
           stylua
+          wl-clipboard
         ];
         kickstart-debug = [
           delve
